@@ -1,0 +1,1 @@
+Code for a landing page of the shopping website.
